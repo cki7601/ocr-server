@@ -1,0 +1,6 @@
+flask
+pytesseract
+pdf2image
+python-docx
+pillow
+langdetect
